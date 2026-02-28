@@ -2,6 +2,9 @@
 
 终端 AI 聊天工具。零依赖，流式 Markdown 渲染，支持联网搜索。
 
+<img width="3004" height="1590" alt="image" src="https://github.com/user-attachments/assets/2f7034cf-4a2f-4ff3-a4df-1e09d762a1f6" />
+
+
 ## 安装
 
 ```bash
